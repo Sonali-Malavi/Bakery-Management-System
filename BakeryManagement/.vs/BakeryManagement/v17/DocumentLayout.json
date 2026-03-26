@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\bakerymanagement\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|solutionrelative:bakerymanagement\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\bakerymanagement\\frmbillingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|solutionrelative:bakerymanagement\\frmbillingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|c:\\users\\atharv\\source\\repos\\bakerymanagement\\bakerymanagement\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|solutionrelative:bakerymanagement\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\bakerymanagement\\frmprintpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|solutionrelative:bakerymanagement\\frmprintpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\bakerymanagement\\frmbillingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|solutionrelative:bakerymanagement\\frmbillingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\bakerymanagement\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE02644-2D58-4ED1-8D89-0ACABD9B892D}|BakeryManagement\\BakeryManagement.csproj|solutionrelative:bakerymanagement\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrintPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmPrintPage.cs",
+              "RelativeDocumentMoniker": "BakeryManagement\\FrmPrintPage.cs",
+              "ToolTip": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmPrintPage.cs [Design]",
+              "RelativeToolTip": "BakeryManagement\\FrmPrintPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:27:32.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBillingPage.cs",
+              "DocumentMoniker": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmBillingPage.cs",
+              "RelativeDocumentMoniker": "BakeryManagement\\FrmBillingPage.cs",
+              "ToolTip": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmBillingPage.cs",
+              "RelativeToolTip": "BakeryManagement\\FrmBillingPage.cs",
+              "ViewState": "AgIAAM4BAAAAAAAAAAA8wNkBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:09:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBillingPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmBillingPage.cs",
+              "RelativeDocumentMoniker": "BakeryManagement\\FrmBillingPage.cs",
+              "ToolTip": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmBillingPage.cs [Design]",
+              "RelativeToolTip": "BakeryManagement\\FrmBillingPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T07:59:03.195Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmHomePage.cs",
+              "RelativeDocumentMoniker": "BakeryManagement\\FrmHomePage.cs",
+              "ToolTip": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmHomePage.cs",
+              "RelativeToolTip": "BakeryManagement\\FrmHomePage.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA6wGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:36:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmHomePage.cs",
+              "RelativeDocumentMoniker": "BakeryManagement\\FrmHomePage.cs",
+              "ToolTip": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmHomePage.cs [Design]",
+              "RelativeToolTip": "BakeryManagement\\FrmHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T18:15:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "BakeryManagement\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\ATHARV\\source\\repos\\BakeryManagement\\BakeryManagement\\FrmDashboard.cs",
+              "RelativeToolTip": "BakeryManagement\\FrmDashboard.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwO4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:06:49.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
